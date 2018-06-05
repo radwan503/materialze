@@ -1,0 +1,218 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #fff;
+    margin: 0;
+}
+
+html {
+    line-height: 0.5;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+#top-nav {
+    background-image: url(../img/header-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    min-height: 650px;
+}
+
+.header-body-text {
+    margin-top: 400px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+nav {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.lead {
+    margin-left: 250px;
+}
+
+
+/*=====fitness info*/
+
+#fitness-info {
+    padding: 50px;
+    background-color: #A2CA28;
+    color: #fff;
+}
+
+.fitness-box {
+    text-align: left;
+    border: 1px solid #fff;
+    padding: 10px;
+}
+
+.fitness-box i {
+    font-size: 15px;
+}
+
+.fitness-box h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.fitness-box p {
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 2em;
+}
+
+.fitness-box a {
+    font-size: 13px;
+    text-transform: uppercase;
+    line-height: 5em;
+    color: #FD634E;
+    font-weight: bold;
+}
+
+#fitness_details_box {
+    padding-top: 50px;
+    background-color: #A2CA28;
+}
+
+.first-left {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+    height: 280px;
+}
+
+.first-left a {
+    font-size: 13px;
+    text-transform: uppercase;
+    line-height: 5em;
+    color: #FD634E;
+    font-weight: bold;
+}
+
+.first-left h5 {
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #FD634E;
+    margin-top: -1px;
+}
+
+.first-left h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #A2CA28;
+    margin-top: -1px;
+}
+
+.first-left p {
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 2em;
+}
+
+.firsr-right img {
+    height: 280px;
+    width: 100%;
+    background-size: cover;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.nopadding-upper {
+    margin-top: -0px !important;
+    margin-bottom: 0px !important;
+}
+
+#summer-of_fun {
+    background-color: #FD634E;
+}
+
+.summer-right {
+    background-color: #A2CA28;
+    height: 280px;
+    width: 100%;
+    padding: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.summer-right p {
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 2em;
+}
+
+#leadership {
+    background-image: url(../img/eightimg.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 270px;
+}
+
+.leader-deatils h3 {
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #fff;
+}
+
+.leader-deatils {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.leader-deatils p {
+    line-height: 2em;
+    color: #fff;
+}
+
+#footer {
+    background-color: #222;
+    padding: 50px;
+}
+
+.footer-text h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer-text p {
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #fff;
+    line-height: 2em;
+}
+
+.social-icon {
+    margin-top: 40px;
+}
+
+.social-icon img {
+    height: 40px;
+    width: 40px;
+}
+
+.social-icon ul li {
+    display: inline-block;
+}
+
+.join_button {
+    padding: 19px 35px;
+    border: none;
+    background-color: #A2CA28;
+    color: #fff;
+}
